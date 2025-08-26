@@ -49,6 +49,14 @@ organisation. Key projects I have been involved in are
 * [blueAPI](https://github.com/DiamondLightSource/blueapi) - Wrapper service
   around the BlueSky library from NSLS-II allowing remote access.
 
+#### Agit
+
+Written at Diamond out of personal need to streamline management of changes
+across multiple repositories. Run git commands on multiple repos and switch
+multiple branches at once to match topics in Gerrit.
+
+* [Repo](https://github.com/tpoliaw/agit)
+
 
 ### Everything else
 
